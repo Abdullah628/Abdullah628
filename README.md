@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
+(https://media.licdn.com/dms/image/C4D16AQGQmirxqOzb-A/profile-displaybackgroundimage-shrink_350_1400/0/1623314553305?e=1712793600&v=beta&t=UZX59vse75tYKYhsx1v-gebET7EpLVno2lfjUEYUtBY)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah628&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah628" /> </p>
 
 - 🌱 I’m currently learning **Amajon Web Service**
