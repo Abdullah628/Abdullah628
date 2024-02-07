@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, js**
 
-- 📫 How to reach me **abdullah628@gmail.com**
+- 📫 How to reach me **abdullah628360@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qrMmL_iBxFMgdfpOXRg01prdIi8woIXu/view](https://drive.google.com/file/d/1qrMmL_iBxFMgdfpOXRg01prdIi8woIXu/view)
 
