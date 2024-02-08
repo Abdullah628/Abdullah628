@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah628&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah628" /> </p>
 
-- 🌱 I’m currently learning **Amajon Web Service**
+- 🌱 I’m currently learning **Amazon Web Service(AWS)**
 
 - 👨‍💻 All of my projects are available at [https://abdullah-portfolio-six.vercel.app/](https://abdullah-portfolio-six.vercel.app/)
 
