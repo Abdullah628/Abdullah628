@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 
-<p><img align="center" src="[https://media.licdn.com/dms/image/C4D16AQGQmirxqOzb-A/profile-displaybackgroundimage-shrink_350_1400/0/1623314553305?e=1712793600&v=beta&t=UZX59vse75tYKYhsx1v-gebET7EpLVno2lfjUEYUtBY](https://media.licdn.com/dms/image/C4D16AQGQmirxqOzb-A/profile-displaybackgroundimage-shrink_350_1400/0/1623314553305?e=1720051200&v=beta&t=JV719HfvSGGkertW-XuevTI4BqXcx8nQhjGNygHyTTw)" alt="abdullah628" /></p>
+<p><img align="center" src="[url=https://ibb.co/G5QjW4M][img]https://i.ibb.co/tJp5qT2/1623314553305.jpg[/img][/url]" alt="abdullah628" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah628&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah628" /> </p>
 
