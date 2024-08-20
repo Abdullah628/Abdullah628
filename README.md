@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Service(AWS)**
 
-- 👨‍💻 All of my projects are available at [my protfolio]([https://abdullah-portfolio-six.vercel.app/](https://abdullah628-portfolio-v2.vercel.app/))
+- 👨‍💻 All of my projects are available at [my protfolio](https://abdullah628-portfolio-v2.vercel.app/)
 
 - 💬 Ask me about **react, js**
 
