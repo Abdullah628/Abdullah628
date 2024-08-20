@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Amazon Web Service(AWS)**
 
-- 👨‍💻 All of my projects are available at [https://abdullah-portfolio-six.vercel.app/](https://abdullah-portfolio-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [my protfolio]([https://abdullah-portfolio-six.vercel.app/](https://abdullah628-portfolio-v2.vercel.app/))
 
 - 💬 Ask me about **react, js**
 
 - 📫 How to reach me **abdullah628360@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qrMmL_iBxFMgdfpOXRg01prdIi8woIXu/view](https://drive.google.com/file/d/1qrMmL_iBxFMgdfpOXRg01prdIi8woIXu/view)
+- 📄 Know about my experiences from [resume](https://drive.google.com/file/d/1qrMmL_iBxFMgdfpOXRg01prdIi8woIXu/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
