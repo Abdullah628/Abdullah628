@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 
-<p align="center"><img align="center" src="https://i.ibb.co/tJp5qT2/1623314553305.jpg" alt="abdullah628" /> </p>
+<p align="center"><img align="center" src="https://i.ibb.co/rRxtKCQw/IMG-20250621-212439.jpg" alt="abdullah628" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah628&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah628" /> </p>
 
