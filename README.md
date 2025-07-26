@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 
 <p align="center"><img align="center" src="https://i.ibb.co/rRxtKCQw/IMG-20250621-212439.jpg" alt="abdullah628" /> </p>
